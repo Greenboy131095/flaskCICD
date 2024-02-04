@@ -12,7 +12,6 @@ filelock==3.13.1
 firebase-admin==6.3.0
 Flask==3.0.0
 flatbuffers==23.5.26
-gast==0.5.4
 grpcio==1.60.0
 grpcio-status==1.60.0
 h5py==3.10.0
