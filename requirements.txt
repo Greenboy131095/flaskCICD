@@ -42,4 +42,4 @@ zipp==3.17.0
 pillow==10.2.0
 scikit-learn==1.3.2
 requests==2.31.0
-numpy==1.24.4
+numpy==1.23.0
